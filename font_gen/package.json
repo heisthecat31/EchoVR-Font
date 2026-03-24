@@ -1,0 +1,20 @@
+{
+  "name": "font_gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "glob": "^13.0.6",
+    "jimp": "^0.22.10",
+    "potrace": "^2.1.8",
+    "svg2ttf": "^6.0.3",
+    "svgicons2svgfont": "^15.0.1"
+  }
+}
